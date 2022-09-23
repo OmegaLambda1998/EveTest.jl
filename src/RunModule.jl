@@ -5,9 +5,9 @@ module RunModule
 # Internal Packages
 
 # Exports
-export run_REPLACE_PKG
+export run_EveTest
 
-function run_REPLACE_PKG(toml::Dict)
+function run_EveTest(toml::Dict)
 end
 
 end

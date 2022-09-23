@@ -1,6 +1,6 @@
-using REPLACE_PKG
+using EveTest
 using Test
 
-@testset "REPLACE_PKG.jl" begin
+@testset "EveTest.jl" begin
     # Write your tests here.
 end
